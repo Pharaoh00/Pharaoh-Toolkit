@@ -1,5 +1,5 @@
 # ToolKit criado por Pharaoh
-# Versão 0.0.3 (2017) [Seg, 6 Jul 11:26:09]
+# Versão 0.0.5 (2017) [Ter, 11 Jul 19:12:03]
 # Linguagem = PT-BR
 
 # Novo na versão 0.0.4:
